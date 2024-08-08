@@ -1,0 +1,30 @@
+var json_ReprojectedPerkinsEastman_2 = {
+"type": "FeatureCollection",
+"name": "ReprojectedPerkinsEastman_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE New York", "Latitude": 40.7531, "Longitude": -73.9796 }, "geometry": { "type": "Point", "coordinates": [ -73.9796, 40.7531 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Chicago", "Latitude": 41.8795, "Longitude": -87.6243 }, "geometry": { "type": "Point", "coordinates": [ -87.6243, 41.8795 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Washington DC", "Latitude": 38.8951, "Longitude": -77.0364 }, "geometry": { "type": "Point", "coordinates": [ -77.0364, 38.8951 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Los Angeles", "Latitude": 34.0522, "Longitude": -118.2437 }, "geometry": { "type": "Point", "coordinates": [ -118.2437, 34.0522 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Pittsburgh", "Latitude": 40.4406, "Longitude": -79.9959 }, "geometry": { "type": "Point", "coordinates": [ -79.9959, 40.4406 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Boston", "Latitude": 42.3601, "Longitude": -71.0589 }, "geometry": { "type": "Point", "coordinates": [ -71.0589, 42.3601 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Toronto", "Latitude": 43.6532, "Longitude": -79.3832 }, "geometry": { "type": "Point", "coordinates": [ -79.3832, 43.6532 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE San Francisco", "Latitude": 37.7749, "Longitude": -122.4194 }, "geometry": { "type": "Point", "coordinates": [ -122.4194, 37.7749 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Stamford", "Latitude": 41.0534, "Longitude": -73.5387 }, "geometry": { "type": "Point", "coordinates": [ -73.5387, 41.0534 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Charlotte", "Latitude": 35.2271, "Longitude": -80.8431 }, "geometry": { "type": "Point", "coordinates": [ -80.8431, 35.2271 ] } },
+{ "type": "Feature", "properties": { "Continent": "Asia", "Location": "PE Mumbai", "Latitude": 19.076, "Longitude": 72.8777 }, "geometry": { "type": "Point", "coordinates": [ 72.8777, 19.076 ] } },
+{ "type": "Feature", "properties": { "Continent": "South America", "Location": "PE Guayaquil", "Latitude": -2.17, "Longitude": -79.9224 }, "geometry": { "type": "Point", "coordinates": [ -79.9224, -2.17 ] } },
+{ "type": "Feature", "properties": { "Continent": "Asia", "Location": "PE Dubai", "Latitude": 25.2048, "Longitude": 55.2708 }, "geometry": { "type": "Point", "coordinates": [ 55.2708, 25.2048 ] } },
+{ "type": "Feature", "properties": { "Continent": "Asia", "Location": "PE Shanghai", "Latitude": 31.2304, "Longitude": 121.4737 }, "geometry": { "type": "Point", "coordinates": [ 121.4737, 31.2304 ] } },
+{ "type": "Feature", "properties": { "Continent": "Asia", "Location": "PE Singapore", "Latitude": 1.3521, "Longitude": 103.8198 }, "geometry": { "type": "Point", "coordinates": [ 103.8198, 1.3521 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Austin", "Latitude": 30.2672, "Longitude": -97.7431 }, "geometry": { "type": "Point", "coordinates": [ -97.7431, 30.2672 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Costa Mesa", "Latitude": 33.6411, "Longitude": -117.9187 }, "geometry": { "type": "Point", "coordinates": [ -117.9187, 33.6411 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Dallas", "Latitude": 32.7767, "Longitude": -96.797 }, "geometry": { "type": "Point", "coordinates": [ -96.797, 32.7767 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Oakland", "Latitude": 37.8044, "Longitude": -122.2711 }, "geometry": { "type": "Point", "coordinates": [ -122.2711, 37.8044 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Philadelphia", "Latitude": 39.9526, "Longitude": -75.1652 }, "geometry": { "type": "Point", "coordinates": [ -75.1652, 39.9526 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Providence", "Latitude": 41.824, "Longitude": -71.4128 }, "geometry": { "type": "Point", "coordinates": [ -71.4128, 41.824 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Seattle", "Latitude": 47.6062, "Longitude": -122.3321 }, "geometry": { "type": "Point", "coordinates": [ -122.3321, 47.6062 ] } },
+{ "type": "Feature", "properties": { "Continent": "North America", "Location": "PE Vancouver", "Latitude": 49.2827, "Longitude": -123.1207 }, "geometry": { "type": "Point", "coordinates": [ -123.1207, 49.2827 ] } }
+]
+}
